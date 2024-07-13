@@ -1,0 +1,48 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+}
+
+.main {
+    background-color: darkblue
+}
+
+.back {
+    width: 100%;
+}
+
+.levi {
+    padding-left: 50px;
+}
+
+.header {
+    display: inline-block;
+    background-color: darkblue;
+    width: 100%;
+}
+
+#drama1 {
+    width: 250px;
+    padding: 10px;
+    background-color: darkblue;
+}
+
+.drama {
+    width: 250px;
+    padding: 10px;
+    background-color: darkblue;
+}
+
+.title {
+    display: block;
+    color: orange;
+    position: right;
+    position: top;
+    padding: 10px 50px;
+}
+
+.mywebsite {
+    padding: 10px 50px;
+    right: 50px;
+    background-color: darkblue;
+}
